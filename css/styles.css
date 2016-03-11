@@ -1,0 +1,49 @@
+* {
+    font-family : 'Lato' , sans-serif;
+}
+
+
+.overall-line {
+    color: #BCBBBB;
+    background-color: #BCBBBB;
+    height: 2px;
+}
+
+
+.logo {
+
+    width: 150px;
+    height: 150px;
+}
+
+
+.my-photo {
+
+    width: 1140px;
+    height: 600px;
+}
+
+
+.intro-item {
+
+    width: 555px;
+    height: 300px;
+}
+
+
+.title-description {
+
+    color : #BCBBBB;
+}
+
+
+.item-description {
+
+    color: #747704;
+}
+
+
+.top-area {
+
+    padding-top : 30px;
+}
